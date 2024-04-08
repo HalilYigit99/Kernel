@@ -1,0 +1,21 @@
+{
+  "name": "Nano",
+  "keywords": ["kernel", "os", "Nano"],
+  "description": "Nano library",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Halil Yigit",
+      "email": "yigith309@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halilyigit99/Nano.git"
+  },
+  "homepage": "https://kutuphane.url",
+  "license": "MIT",
+  "frameworks": ["arduino"],
+  "platforms": ["*"]
+}
